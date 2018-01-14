@@ -1,10 +1,10 @@
 # RUN
-npm start
-yarn start
+## npm start
+## yarn start
 
 # DEPLOY
-npm run build
-yarn build
+## npm run build
+## yarn build
 
- # ENDPOINTS
-localhost:3000
+# ENDPOINTS
+## localhost:3000
