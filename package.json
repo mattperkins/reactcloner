@@ -1,7 +1,7 @@
 {
-  "name": "reactbasic",
-  "version": "0.0.1",
-  "private": true,
+  "name": "reactcloner",
+  "version": "0.0.2",
+  "private": false,
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",

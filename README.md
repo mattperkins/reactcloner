@@ -1,9 +1,7 @@
 # INSTALL
-## npm install
 ## yarn
 
 # RUN
-## npm start
 ## yarn start
 
 # ENDPOINTS
