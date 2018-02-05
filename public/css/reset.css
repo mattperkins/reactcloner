@@ -13,13 +13,14 @@ font-family: 'Source Code Pro', monospace; */
 html{
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%;
-}
-body{
-    margin:0;
-    font:16px/1 'Lato', serif;
     -moz-osx-font-smoothing:grayscale;
     -webkit-font-smoothing:antialiased;
     text-rendering:optimizeLegibility;
+    font:16px/1.2 'Lato', sans-serif;
+}
+body{
+    margin:0;
+    padding: 0;
     overflow-x: hidden;
     user-select: none;
 }
