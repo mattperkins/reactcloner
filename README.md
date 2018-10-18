@@ -1,14 +1,17 @@
-# INSTALL
-## yarn
+# UPDATED WITH react-cloner repo (LOCAL REPO DELETED)
 
-# RUN
-## yarn start
 
-# ENDPOINTS
-## localhost:3000
+### INSTALL
+##### yarn
 
-# DEPLOY
-## npm run build
-## yarn build
+### RUN
+##### yarn start
+
+### ENDPOINTS
+##### localhost:3000
+
+### DEPLOY
+##### npm run build
+##### yarn build
 
 
